@@ -18,6 +18,8 @@
             $nome = $_POST['nome'];
         echo "<p> Olá, $nome!</p>";
         }
+
+        
     ?>
 </body>
 </html>
